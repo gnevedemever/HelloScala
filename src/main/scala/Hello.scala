@@ -1,5 +1,5 @@
 object Hello extends App {
 
-  println("Hello Scala");
+  println("Update version of Hello Scala");
 
 }
